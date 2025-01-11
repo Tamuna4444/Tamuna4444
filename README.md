@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tamuna4444
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on  company which will give me projects and  help me to learn web development;)
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
